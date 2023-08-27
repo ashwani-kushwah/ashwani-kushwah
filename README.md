@@ -1,4 +1,4 @@
-![Ashwani Banner Image](./assets/banner.png)
+![Ashwani Banner Image](banner.png)
 
 <br>
 
@@ -38,7 +38,3 @@
 </div>  
   
 
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

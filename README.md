@@ -5,7 +5,7 @@
 ### I'm Ashwani, a full-time Data Analyst 💹
 
 
-- 🌱 I’m currently learning Pandas and Google Analytics
+- 🌱 I’m currently learning Data Science
 - 😄 Pronouns: He/Him
 - 👨‍🏫 Highly efficinet in SQL & Excel
 - ⚡ Fun fact: I use tabs over spaces  
@@ -34,6 +34,9 @@
 </a>
 <a href="https://github.com/https://github.com/ashwani-kushwah" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+<a href="https://twitter.com/ashwani_kush11" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
